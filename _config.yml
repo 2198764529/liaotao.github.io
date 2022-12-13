@@ -1,5 +1,5 @@
-site: Gesko
-title: Gesko
+site: blog of tao
+title: blog of tao
 greetings: Hi 👋
 description: >-
   just a minimalist, personal blog
@@ -10,7 +10,7 @@ data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: gesko
+  name: liaotao
   bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
@@ -23,7 +23,7 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 url: "https://DavideBri.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: "/" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
